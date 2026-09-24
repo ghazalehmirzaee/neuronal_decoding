@@ -1,10 +1,11 @@
-# Neuronal Decoding from M1: Hybrid CNN-BiLSTM for Bilateral Forelimb Movement Prediction
+# Spatiotemporal Decoding of Bilateral Forelimb Movements from Unilateral Motor Cortex Activity
 
-This repository implements the models and methods from the paper "Dissecting the Computational Necessity of Hybrid Deep Learning Models for Decoding Complex Motor Behavior from Neuronal Population Activity".
+This repository implements the models and methods from the paper
+[**"Dissecting the Computational Necessity of Hybrid Deep Learning Models for Decoding Complex Motor Behavior from Neuronal Population Activity"**](https://doi.org/10.1016/j.mlwa.2026.100905).
 
 ## Overview
 
-This codebase implements an attention-based hybrid CNN-BiLSTM architecture for decoding skilled bilateral forelimb movements from in vivo two-photon (2P) calcium imaging of excitatory neuronal ensembles in unilateral primary motor cortex (M1) of mice. The central finding is that unilateral M1 population activity contains sufficient spatiotemporal information to support reliable decoding of both ipsilateral and contralateral forelimb movements during a complex grid-walking task.
+This codebase implements an attention-based hybrid CNN-BiLSTM architecture for decoding skilled bilateral forelimb movements from in vivo two-photon (2P) calcium imaging of excitatory neuronal ensembles in unilateral primary motor cortex (M1) of mice. The central finding is that unilateral M1 population activity contains sufficient spatiotemporal information to support reliable decoding of both ipsilateral and contralateral forelimb movements during a complex grid-walking task. 
 
 
 ## Repository Structure
